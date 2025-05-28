@@ -1,16 +1,14 @@
-## Hi there 👋
+## Eai clã! Eu sou o Lucrecio
 
-<!--
-**LucrecioZ/LucrecioZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estou estudando Analise e Desenvolvimento de sistemas
+- 🌱 Estudando atualmente HTML,CSS, JavaScript, C, C+, e aulas de ingles.
+- 📫 Entre em contato comigo: vfrfluck@gmail.com
+##
+<div style="display: inline_block"><br>
+  <img align="center" alt="Luck-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="Luck-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Luck-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Luck-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="Luck-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="right" alt="lkz-git" height="200" width="200" src="https://media.discordapp.net/attachments/828848611542564894/1377394797333057576/lkzgit.gif?ex=6838ce5e&is=68377cde&hm=986b177e8004aa00f3b2c437115be88a389324fa34cabf9e6ff5c2bb30dcdd4f&=&width=808&height=808">
+</div>
