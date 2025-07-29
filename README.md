@@ -1,7 +1,8 @@
-## Eai clã! Eu sou o Lucrecio
+## Hello guys✌🏻 I am Lucrecio!
 
-- 🔭 Estou estudando Analise e Desenvolvimento de sistemas
-- 🌱 Estudando atualmente HTML,CSS, JavaScript, C, C+, e aulas de ingles.
+- 🔭 Estou estudando Analise e Desenvolvimento de sistemas no Centro Universitário de Viçosa (Univiçosa).
+- 🌱 Estudando atualmente HTML,CSS, JavaScript, C, C+, GML, MySQL, Ingles.
+- 🎮 Meus principais hobbies é levantar peso e jogar videogame, estou começando a progamar jogos no tempo livre.
 - 📫 Entre em contato comigo: vfrfluck@gmail.com
 ##
 <div style="display: inline_block"><br>
