@@ -56,6 +56,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LucrecioZ/LucrecioZ/output/snake.svg" alt="Snake animation" />
-
-###
