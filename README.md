@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 📚 Estou estudando Analise e Desenvolvimento de sistemas no Centro Universitário de Viçosa (Univiçosa).<br>- 🌱 Estudando atualmente HTML,CSS, JavaScript, C, C+, GML, Kotlin, MySQL, Ingles.<br>- 🎮 Meus principais hobbies é levantar peso e jogar videogame, estou começando a progamar jogos no tempo livre.</p>
+<p align="left">- 📚 Estou estudando Analise e Desenvolvimento de sistemas no Centro Universitário de Viçosa (Univiçosa).<br>- 🌱 Estudando atualmente HTML,CSS, JavaScript, C, C+, GML, Kotlin, MySQL, Ingles.<br>- 🎮 Meus principais hobbies é levantar peso e jogar videogame, estou começando a progamar jogos e apps no tempo livre.</p>
 
 ###
 
