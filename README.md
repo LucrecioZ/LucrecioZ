@@ -1,10 +1,8 @@
-<h2 align="left">Hello Guys✌🏻 I am Lucrecio</h2>
+## Hello Guys ✌🏻 I am Lucrecio
 
-###
-
-<p align="left">- 📚 Estou estudando Analise e Desenvolvimento de sistemas no Centro Universitário de Viçosa (Univiçosa).<br>- 🌱 Estudando atualmente HTML,CSS, JavaScript, C, C+, GML, Kotlin, MySQL, Ingles.<br>- 🎮 Meus principais hobbies é levantar peso e jogar videogame, estou começando a progamar jogos e apps no tempo livre.</p>
-
-###
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário de Viçosa (Univiçosa).
+- 🌱 Atualmente estudando HTML, CSS, JavaScript, C, C++, Kotlin, MySQL e Inglês.
+- 🎮 Apaixonado por tecnologia, musculação e videogames. No tempo livre, desenvolvo jogos e aplicativos para aprimorar minhas habilidades.
 
 ## 💻 Linguagens
 
