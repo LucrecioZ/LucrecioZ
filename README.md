@@ -6,37 +6,64 @@
 
 ###
 
-## 🧠 Tecnologias & Linguagens
+## 💻 Linguagens
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="60"/><br>
+      HTML5
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="60"/><br>
+      CSS3
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="60"/><br>
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="60"/><br>
+      PHP
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>
+      MySQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="60"/><br>
+      Kotlin
+    </td>
+  </tr>
+</table>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python" />
-</p>
 
-### 🗄️ Banco de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+## 🛠️ Ferramentas 
 
-### 📱 Mobile (Diferencial)
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
-</p>
-
-### 🛠️ Ferramentas
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="60"/><br>
+      Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="60"/><br>
+      GitHub
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="60"/><br>
+      VS Code
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="60"/><br>
+      Android Studio
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="60"/><br>
+      Figma
+    </td>
+  </tr>
+</table>
 
 
 <h2 align="left">📫 Meus Contatos</h2>
@@ -54,16 +81,4 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucrecioZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucrecioZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="right">
-  <img height="200" src="https://media.discordapp.net/attachments/828848611542564894/1377394797333057576/lkzgit.gif?ex=6889e29e&is=6888911e&hm=45e25a4de4168bd62757fa9a548c359911d3912744b1b43d7ba0979005b5913b&="  />
-</div>
-
-###
 
