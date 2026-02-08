@@ -63,6 +63,21 @@
   </tr>
 </table>
 
+## 🚀 Projetos em Destaque
+
+### 📱 QuietTime – Aplicativo Android
+Aplicativo desenvolvido em Kotlin que permite agendar automaticamente o modo “Não Perturbe” do celular, ativando e desativando o som em horários definidos.
+
+🔗 <a href="https://github.com/LucrecioZ/QuieTime">Ver repositório</a>
+
+---
+
+### 🌐 Sistema CRUD em PHP
+Sistema web completo de cadastro de usuários com integração MySQL, implementando operações de Create, Read, Update e Delete, com deploy em hospedagem real.
+
+🔗 <a href="https://github.com/LucrecioZ/sistema-gerenciamento-usuarios">Ver repositório</a>
+
+---
 
 <h2 align="left">📫 Meus Contatos</h2>
 
