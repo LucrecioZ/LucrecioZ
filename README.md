@@ -29,6 +29,10 @@
       MySQL
     </td>
     <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" width="60"/><br>
+      C++
+    </td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=kotlin" width="60"/><br>
       Kotlin
     </td>
