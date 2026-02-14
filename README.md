@@ -76,10 +76,13 @@ Aplicativo desenvolvido em Kotlin que permite agendar automaticamente o modo “
 
 ---
 
-### 🌐 Sistema CRUD em PHP
-Sistema web completo de cadastro de usuários com integração MySQL, implementando operações de Create, Read, Update e Delete, com deploy em hospedagem real.
+### 🎮 Teste CEFR Gaming
+Teste interativo de nível de inglês baseado no CEFR (A1–C2), com interface temática gamer e sistema dinâmico de pontuação.
 
-🔗 <a href="https://github.com/LucrecioZ/sistema-gerenciamento-usuarios">Ver repositório</a>
+🔗 Acesse o projeto:  
+https://lucrecioz.github.io/teste-cefr-gaming/
+
+📂 <a href="https://github.com/LucrecioZ/test-cefr-gaming">Ver repositório</a>
 
 ---
 
