@@ -80,7 +80,7 @@ Aplicativo desenvolvido em Kotlin que permite agendar automaticamente o modo “
 Teste interativo de nível de inglês baseado no CEFR (A1–C2), com interface temática gamer e sistema dinâmico de pontuação.
 
 🔗 Acesse o projeto:  
-https://lucrecioz.github.io/teste-cefr-gaming/
+https://lucrecioz.github.io/test-cefr-gaming/
 
 📂 <a href="https://github.com/LucrecioZ/test-cefr-gaming">Ver repositório</a>
 
