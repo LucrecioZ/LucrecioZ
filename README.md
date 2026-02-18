@@ -91,7 +91,7 @@ https://lucrecioz.github.io/test-cefr-gaming/
 <table>
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/></td>
-    <td><a href="mailto:vfrfluck@gmail.com">vfrfluck@gmail.com</a></td>
+    <td><a href="mailto:vfrfluck@gmail.com">lucreciolourencoz@gmail.com</a></td>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></td>
