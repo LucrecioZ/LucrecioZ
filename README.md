@@ -1,7 +1,7 @@
 ## Hello Guys ✌🏻 I am Lucrecio
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário de Viçosa (Univiçosa).
-- 🌱 Atualmente estudando HTML, CSS, JavaScript, C, C++, Kotlin, MySQL e Inglês.
+- 🌱 Atualmente estudando e me especializando em JavaScript, Sistemas de Banco de dados e aperfeiçoando meu Inglês a cada dia.
 - 🎮 Apaixonado por tecnologia, musculação e videogames. No tempo livre, desenvolvo jogos e aplicativos para aprimorar minhas habilidades.
 
 ## 💻 Linguagens
